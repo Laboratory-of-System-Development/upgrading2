@@ -9,9 +9,9 @@
     <nav>
         <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/services">Services</a></li>
-            <li><a href="/posts">Blog</a></li>
+            <li><a href="/beranda">About</a></li>
+            <li><a href="/proyek">Services</a></li>
+            <li><a href="/postingan">Blog</a></li>
         </ul>
     </nav>
     <h1>Commit oleh Fathur</h1>
