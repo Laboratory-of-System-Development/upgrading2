@@ -15,6 +15,6 @@
         </ul>
     </nav>
     <h1>Commit oleh Fathur</h1>
-    <p>Conflict itu asik, berantem itu seru</p>
+    <p>Conflict itu asikkkkkk, berantem itu seru!</p>
 </body>
 </html>
