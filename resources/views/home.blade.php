@@ -9,8 +9,8 @@
     <nav>
         <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="/beranda">About</a></li>
-            <li><a href="/proyek">Services</a></li>
+            <li><a href="/tentang">About</a></li>
+            <li><a href="/layanan">Services</a></li>
             <li><a href="/postingan">Blog</a></li>
         </ul>
     </nav>
