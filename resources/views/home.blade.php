@@ -6,6 +6,14 @@
     <title>Upgrading 2 LSD</title>
 </head>
 <body>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/services">Services</a></li>
+            <li><a href="/posts">Blog</a></li>
+        </ul>
+    </nav>
     <h1>Commit oleh Fathur</h1>
 </body>
 </html>
